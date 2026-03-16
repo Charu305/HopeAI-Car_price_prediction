@@ -1,4 +1,4 @@
-# 🚗 Used Car Price Prediction — HopeAI
+# 🚗 Used Car Price Prediction
 
 > **An end-to-end Machine Learning pipeline** that predicts the market price of used cars based on vehicle attributes — covering the complete data science lifecycle from raw data collection to model deployment.
 
@@ -8,7 +8,7 @@
 
 Buying or selling a used car at the right price is a challenge for both buyers and dealers. This project builds a **supervised regression model** that accurately estimates the resale value of a used car given features like make, model, year, mileage, fuel type, and transmission.
 
-The project was developed as part of the **HopeAI internship program** and follows a structured, production-aware ML workflow — not just a notebook experiment.
+The project was developed as part of the **HopeAI Leaning program** and follows a structured, production-aware ML workflow — not just a notebook experiment.
 
 ---
 
